@@ -1,6 +1,6 @@
 # 정수 삼각형
 
-## :timer_clock: **time**
+## :timer_clock: **Time**
 .
 
 ## :pushpin: **Algorithm**
