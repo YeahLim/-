@@ -1,4 +1,4 @@
-# n진수 게임
+# N진수 게임
 
 ## :timer_clock: **time**
 
