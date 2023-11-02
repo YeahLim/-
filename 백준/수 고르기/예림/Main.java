@@ -25,20 +25,23 @@ class Main {
 		int diff = array[right] - array[left];
 		int answer = diff;
 		
-		while (left <= right && right < N && answer != M) {
+		while (right < N && answer != M) {
 			
 			// M보다 작을 경우
-			while (diff < M && ++right < N) {
-				diff = array[right] - array[left];
-				answer = getClosest(answer, diff);
-			}
-
-			// M보다 클 경우
-			while (diff > M && ++left < N) {
-				diff = array[right] - array[left];
-				answer = getClosest(answer, diff);
-			}
-			
+			if (diff < M) {
+                right++;
+            } 
+            // M보다 클 경우
+            else if (diff > M) {
+               left++;
+            }
+            
+            if (right == N) {
+                break;
+            }
+             
+            diff = array[right] - array[left];
+            answer = getClosest(answer, diff);
 		}
 		
 		System.out.println(answer);
