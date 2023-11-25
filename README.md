@@ -14,3 +14,4 @@
 |**3주차**<br> (10.30 ~ 11.5)|[N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)|[합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|[수 고르기](https://www.acmicpc.net/problem/2230)|[다이어트](https://www.acmicpc.net/problem/1484)
 |**4주차**<br> (11.6 ~ 11.12)|[택배 배송](https://www.acmicpc.net/problem/5972)|[택배](https://www.acmicpc.net/problem/1719)|[귀여운 라이언](https://www.acmicpc.net/problem/15565)|[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|[친구비](https://www.acmicpc.net/problem/16562)
 |**5주차**<br> (11.23 ~ 11.26)||||[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|[표편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)|[부분합](https://www.acmicpc.net/problem/1806)
+|**6주차**<br> (11.27 ~ 12.2)||||||[부분수열의 합 2](https://www.acmicpc.net/problem/1208)
